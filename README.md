@@ -3,7 +3,7 @@ Hi 👋 My name is Lorin
 
 * 🌍  I'm based in Zürich
 * 🧠  I'm learning Java and Drupal
-* You can contact me at [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
+* :envelope: You can contact me at [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
 
 ### Skills
 
