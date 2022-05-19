@@ -1,8 +1,6 @@
-Hi 👋 My name is Lorin
+Lorin
 ======================
 
-* 🌍  I'm based in Zürich
-* 🧠  I'm learning Java and Drupal
 * :envelope: [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
 
 ### Skills
