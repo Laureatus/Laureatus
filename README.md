@@ -3,7 +3,7 @@ Hi 👋 My name is Lorin
 
 * 🌍  I'm based in Zürich
 * 🧠  I'm learning Java and Drupal
-* :envelope: You can contact me at [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
+* :envelope: [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
 
 ### Skills
 
@@ -19,6 +19,7 @@ Hi 👋 My name is Lorin
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Laureatus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.drupal.org/u/laureatus" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
