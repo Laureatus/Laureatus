@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Laureatus)
 
-Hi my name is Lorin
+Hi! My name is Lorin
 ======================
 
 * :envelope: [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
