@@ -1,7 +1,7 @@
 <h1 align="center">Lorin</h1>
 
 <h4 align="left">Please check out my Cheatsheet and documentation repository</h4>
-
+<a href="https://github.com/Laureatus/Cheatsheet">Laureatus/cheatsheet</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laureatus&label=Profile%20views&color=0e75b6&style=flat" alt="laureatus" /> </p>
 
