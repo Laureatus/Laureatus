@@ -1,15 +1,12 @@
 <h1 align="center">Lorin</h1>
 
-<h4 align="left">Please check out my Cheatsheet and documentation repository</h4>
-<a href="https://github.com/Laureatus/Cheatsheet">Laureatus/cheatsheet</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laureatus&label=Profile%20views&color=0e75b6&style=flat" alt="laureatus" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laureatus" alt="laureatus" /></a> </p>
 
 
-- 🔭 I’m currently working on [M183-security-project](https://github.com/Laureatus/M183-security-project)
+- 🔭 I’m currently working on [cheatsheet](https://github.com/Laureatus/Cheatsheet)
 
 
 - 🌱 I’m currently learning **Drupal**
