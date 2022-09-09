@@ -1,12 +1,34 @@
-![](https://komarev.com/ghpvc/?username=Laureatus)
+<h3 align="center">Lorin</h3>
 
-Hi! My name is Lorin
-======================
 
-* :envelope: [lorin.fankhauser@gmail.com](mailto:lorin.fankhauser@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laureatus&label=Profile%20views&color=0e75b6&style=flat" alt="laureatus" /> </p>
 
-### Skills
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laureatus" alt="laureatus" /></a> </p>
+
+
+- 🔭 I’m currently working on [M183-security-project](https://github.com/Laureatus/M183-security-project)
+
+
+- 🌱 I’m currently learning **Drupal**
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/Laureatus](https://github.com/Laureatus)
+
+
+- 📫 How to reach me **lorin.fankhauser@gmail.com**
+
+
+<h3 align="left">My Socials:</h3>
+
+<a href="https://stackoverflow.com/users/14453658" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30" height="40" /></a>
+<a href="https://www.drupal.org/u/laureatus" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="30" height="40" /></a>
+
+
+
+
+
+<h3 align="left">Skills:</h3>
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -16,16 +38,11 @@ Hi! My name is Lorin
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="PHP" /></a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.drupal.org/u/laureatus" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="32" height="32" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laureatus&show_icons=true&locale=en&layout=compact" alt="laureatus" /></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laureatus&show_icons=true&locale=en" alt="laureatus" /></p>
 
-<a href="http://www.github.com/Laureatus"><img src="https://github-readme-stats.vercel.app/api?username=Laureatus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Laureatus's GitHub stats" /></a>
 
-<a href="http://www.github.com/Laureatus"><img src="https://activity-graph.herokuapp.com/graph?username=Laureatus&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Laureatus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laureatus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laureatus&" alt="laureatus" /></p>
