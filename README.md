@@ -7,7 +7,7 @@
 
 - 🇨🇭 I'm living in Zürich 
 
-- 🔭 I’m currently working on [cheatsheet](https://github.com/Laureatus/Cheatsheet)
+- 🔭 I’m currently working on [Laureatus/cheatsheet](https://github.com/Laureatus/Cheatsheet)
 
 
 - 🌱 I’m currently learning **Drupal**
