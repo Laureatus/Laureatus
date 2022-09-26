@@ -36,7 +36,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.testautomatisierung.org/wp-content/uploads/14098888813_bec60d595d_o.png" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://uncommonsolutions.com/wp-content/uploads/2018/12/Microsoft-Docker-logo.png" width="100" height="36" alt="HTML5" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laureatus&show_icons=true&locale=en&layout=compact" alt="laureatus" /></p>
