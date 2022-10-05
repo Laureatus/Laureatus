@@ -2,12 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laureatus&label=Profile%20views&color=0e75b6&style=flat" alt="laureatus" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laureatus" alt="laureatus" /></a> </p>
-
 - 🇨🇭 I'm living in Zürich 
 
-- 🔭 I’m currently working on [ParkourSpots](https://parkourspotsbplaced.net)
+- 🔭 I’m currently working on [ParkourSpots](https://parkourspots.bplaced.net)
 
 
 - 🌱 I’m currently learning **Drupal**
