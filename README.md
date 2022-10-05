@@ -7,7 +7,7 @@
 
 - 🇨🇭 I'm living in Zürich 
 
-- 🔭 I’m currently working on [Laureatus/cheatsheet](https://github.com/Laureatus/Cheatsheet)
+- 🔭 I’m currently working on [ParkourSpots](https://parkourspotsbplaced.net)
 
 
 - 🌱 I’m currently learning **Drupal**
@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Laureatus](https://github.com/Laureatus)
 
 
-- 📫 How to reach me **lorin.fankhauser@gmail.com**
+- 📫 How to reach me: **lorin.fankhauser@gmail.com**
 
 
 <h3 align="left">My Socials:</h3>
