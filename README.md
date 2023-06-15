@@ -15,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laureatus&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laureatus&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Laureatus)](https://github.com/anuraghazra/github-readme-stats)
