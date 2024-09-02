@@ -4,7 +4,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
-🌱 I’m currently learning Drupal, Nuxt and React<br>
+🌱 I’m currently learning Drupal and Nuxt<br>
+<a href="https://www.drupal.org/u/laureatus">My Drupal.org Profile</a>
 
 # 💻 Technologies I worked with:
 <div align="center">  
