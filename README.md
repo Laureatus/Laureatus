@@ -1,8 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=Laureatus&icon=0&color=0)](https://visitcount.itsvg.in)
 # Lorin
 
-<div align = center>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
 🌱 I’m currently learning Drupal and Nuxt<br>
